@@ -149,12 +149,6 @@ You can adjust these constants in `main_door_lock.py`:
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 🙋 Author
 
 Built as an embedded systems project integrating computer vision with Raspberry Pi hardware.
